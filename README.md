@@ -1,2 +1,2 @@
 # Eastmoneyquerying
-This is a project I constructed to help my friend to monitor the eastmoney website. I found it interesting so I submited it here.
+This is a project I constructed to help my friend Xiaoming to monitor the eastmoney website. I found it interesting so I submited it here. Maybe I will also need this code in one day.....
